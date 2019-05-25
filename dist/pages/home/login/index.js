@@ -1,0 +1,1 @@
+"use strict";require(["../../../static/conf/config.js"],function(){require(["jquery","vali","bootstrap"],function(o,n,i){o(".login").bind("click",function(){var n={username:o(".username").val(),password:o(".password").val()};console.log(n)})})});
